@@ -24,13 +24,8 @@ Notes:
 14) copy it to a USB stick, email it to yourself, even upload it to your own website (it’s open source.)
 15) There are no dependent files, just save as a single HTML file.
 
-<h1>There are Two Version : the <a href="https://github.com/Xdev200/Secure_Password_Manager/blob/master/Passwords-15char.html">15 character</a> and the <a href="https://github.com/Xdev200/Secure_Password_Manager/blob/master/Passwords-20char.html">20 character</a> , see also the .</h1>
+<h1>There are Two Version : the <a href="https://github.com/Xdev200/Secure_Password_Manager/blob/master/Passwords-15char.html">15 character</a> and the <a href="https://github.com/Xdev200/Secure_Password_Manager/blob/master/Passwords-20char.html">20 character</a></h1>
   
-
-Command-line version
-Password security - a comparison of Password Generators
-Are the SS64.com password generators a good approach? - StackExchange
-
 “Password managers don't have to be perfect, they just have to be better than not having one” ~ Troy Hunt.
 
 Credits
